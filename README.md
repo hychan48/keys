@@ -2,6 +2,12 @@
 Keyboard shortcuts, Profiles, Preferences, Configs, Environments
 
 * mostly for remote / new systems
+
+## GitHub API
+```bash
+curl -L https://api.github.com/users/hychan48/keys
+```
+
 ## todo
 * jasonchan.app
 * import
