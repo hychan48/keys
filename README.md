@@ -3,6 +3,7 @@ Keyboard shortcuts, Profiles, Preferences, Configs, Environments
 
 * mostly for remote / new systems
 * [github.com/settings/keys](https://github.com/settings/keys)
+* [api.github.com/users/hychan48/keys](https://api.github.com/users/hychan48/keys)
 ## GitHub API
 ```bash
 curl -L https://api.github.com/users/hychan48/keys
